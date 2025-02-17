@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Editor files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.DS_Store
+*.directory
+*.orig
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sql
+*.bak
+
+# Scapy cache
+scapy-cache/
+
+# Docker
+*.env
+docker-compose.override.yml
+.dockerignore
+
+# pytest caches
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Temporary files
+*.tmp
+*.temp
+*.~lock.*

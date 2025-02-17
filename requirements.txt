@@ -1,0 +1,5 @@
+scapy
+elasticsearch>=8.0.0
+aiohttp
+pytest
+asynctest
